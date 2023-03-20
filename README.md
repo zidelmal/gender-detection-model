@@ -60,5 +60,3 @@ To have more vision about this part visit this repository : https://github.com/z
 * https://ceur-ws.org/Vol-2754/paper3.pdf
 * https://www.geeksforgeeks.org/python-gender-identification-by-name-using-nltk/
 * https://www.kaggle.com/code/karsteneckhardt/predicting-gender-from-first-names-with-an-lstm/notebook
- 
-
