@@ -15,7 +15,7 @@ But since the dataset need to get enriched with african names and others written
          width="400" title="Data repartition" hspace="20"/>
 <!--     <h3 align="left">WordCloud</h3> -->
     <img align="left" src="https://user-images.githubusercontent.com/88236219/226318990-571f681a-38b4-47ba-8846-305049fd4d5e.png" 
-         width="380" title="Names WordCloud"/>
+         width="350" title="Names WordCloud"/>
 </div>
 
 
