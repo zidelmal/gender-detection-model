@@ -11,12 +11,12 @@ But since the dataset need to get enriched with african names and others written
 ### Some EDA visualization
 <div class="container" align="center">
     <div>
-        <h3>Gender Pie Chart</h3>
+        <h3 align="center">Gender Pie Chart</h3>
         <img align="left" src="https://user-images.githubusercontent.com/88236219/226207844-846b7c7d-4f29-432f-a737-fa937a844d81.png" 
              width="400" title="Data repartition" hspace="20"/>
     </div>
     <div>
-        <h3>WordCloud</h3>
+        <h3 align="center">WordCloud</h3>
         <img align="right" src="https://user-images.githubusercontent.com/88236219/226208063-029570f8-7251-4cf7-9cde-aafb8422c098.png" 
              width="420" title="Names WordCloud"/>
     </div>
