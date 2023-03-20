@@ -11,7 +11,7 @@ But since the dataset need to get enriched with african names and others written
 ### Gender Pie Chart
 
 <img align="left" src="https://user-images.githubusercontent.com/88236219/226207844-846b7c7d-4f29-432f-a737-fa937a844d81.png" width="400" title="Data repartition" hspace="20"/> 
-<img align="left" src="https://user-images.githubusercontent.com/88236219/226208063-029570f8-7251-4cf7-9cde-aafb8422c098.png" width="425" title="Names WordCloud"/>
+<img align="left" src="https://user-images.githubusercontent.com/88236219/226208063-029570f8-7251-4cf7-9cde-aafb8422c098.png" width="420" title="Names WordCloud"/>
 
 
 ## The data treatement
@@ -45,10 +45,6 @@ But since the dataset need to get enriched with african names and others written
         0 = 'Man'
         1 = 'Woman'
     ```
-# Models
-
-# Results
- 
 # Deployement
 
 To have more vision about this part visit this repository : https://github.com/zidelmal/gender-predictor-webapp/
