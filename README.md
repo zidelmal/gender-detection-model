@@ -18,6 +18,8 @@ But since the dataset need to get enriched with african names and others written
          width="420" title="Names WordCloud"/>
 </div>
 
+
+
 ## The data treatement
 
 ### The cleaning roadmap
@@ -49,7 +51,11 @@ But since the dataset need to get enriched with african names and others written
         0 = 'Man'
         1 = 'Woman'
     ```
-# Deployement
+## Model Building
+
+## Model Performance
+
+# Productionisation
 
 To have more vision about this part visit this repository : https://github.com/zidelmal/gender-predictor-webapp/
 
