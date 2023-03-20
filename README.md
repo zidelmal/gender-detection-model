@@ -9,10 +9,14 @@ But since the dataset need to get enriched with african names and others written
 - We scraped mainly : https://angelsname.com
 
 ### Some EDA visualization
-<p align="center">
-    <img align="left" src="https://user-images.githubusercontent.com/88236219/226207844-846b7c7d-4f29-432f-a737-fa937a844d81.png" width="400" title="Data repartition" hspace="20"/> 
-    <img align="right" src="https://user-images.githubusercontent.com/88236219/226208063-029570f8-7251-4cf7-9cde-aafb8422c098.png" width="420" title="Names WordCloud"/>
-</p>
+<div class="container" align="center">
+    <div>
+        <h3>Gender Pie Chart</h3>
+        <img align="left" src="https://user-images.githubusercontent.com/88236219/226207844-846b7c7d-4f29-432f-a737-fa937a844d81.png" width="400" title="Data repartition" hspace="20"/></div>
+    <div>
+        <h3>WordCloud</h3>
+        <img align="right" src="https://user-images.githubusercontent.com/88236219/226208063-029570f8-7251-4cf7-9cde-aafb8422c098.png" width="420" title="Names WordCloud"/></div>
+</div>
 </br>
 
 ## The data treatement
