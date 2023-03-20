@@ -17,6 +17,7 @@ But since the dataset need to get enriched with african names and others written
         <h3>WordCloud</h3>
         <img align="right" src="https://user-images.githubusercontent.com/88236219/226208063-029570f8-7251-4cf7-9cde-aafb8422c098.png" width="420" title="Names WordCloud"/></div>
 </div>
+<br />
 
 
 
