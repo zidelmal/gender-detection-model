@@ -69,9 +69,14 @@ But since the dataset need to get enriched with african names and others written
                }
     ```
 - At the end of this phase we compared the performance of each model & we choose the 2 which were the best in terme of accuracy & precision since in this model we need to see the precision more than other thing.
-- The 2 best models are : ETC & RFC
+- The 2 best models are : **ETC** & **RFC**
 ## Model Performance
-    
+![image](https://user-images.githubusercontent.com/88236219/236666446-8b547b24-3941-41c5-9f2a-d431eef307c4.png)
+
+**RFC** & **ETC** gave us a precision of **81.561%** & **81.2%** respectively.
+After this we tried to pimp the models with **GridSearchCV** but the models gave no amélioration. 
+So we decided to see the learning curve of each model, we remarked that the model was overfiting & it asked for more data to generalize better the train set.
+We tried to scrape more & more data from 120k to 450k but it changed nothing so we decided to make of our **RFC** the product model
 # Productionisation
 
 To have more vision about this part visit this repository : https://github.com/zidelmal/gender-predictor-webapp/
