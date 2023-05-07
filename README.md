@@ -1,4 +1,4 @@
-# gender-detector-model
+# gender-detection-model
 
 In this Project we worked on a simple classification probleme using categorical data.
 Since the Algerian companies need is not to get information only from algerian name so we had to use *First Names* from all over the world.
