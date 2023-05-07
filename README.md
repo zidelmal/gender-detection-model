@@ -52,7 +52,7 @@ But since the dataset need to get enriched with african names and others written
         1 = 'Woman'
     ```
 ## Model Building
-    We used in this project several models in order to take the best one
+- We used in this project several models in order to take the best one
     ```
     classifiers = {
                'SVM' : SGDClassifier(), 
@@ -68,8 +68,8 @@ But since the dataset need to get enriched with african names and others written
                'RC' : RidgeClassifier()
                }
     ```
-    At the end of this phase we compared the performance of each model & we choose the 2 which were the best in terme of accuracy & precision since in this model we need to see the precision more than other thing.
-The 2 best models are : ETC & RFC
+- At the end of this phase we compared the performance of each model & we choose the 2 which were the best in terme of accuracy & precision since in this model we need to see the precision more than other thing.
+- The 2 best models are : ETC & RFC
 ## Model Performance
     
 # Productionisation
