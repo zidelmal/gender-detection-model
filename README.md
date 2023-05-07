@@ -52,9 +52,26 @@ But since the dataset need to get enriched with african names and others written
         1 = 'Woman'
     ```
 ## Model Building
-
+    We used in this project several models in order to take the best one
+    ```
+    classifiers = {
+               'SVM' : SGDClassifier(), 
+               'ETC' : ExtraTreesClassifier(),
+               'DTC' : DecisionTreeClassifier(), 
+               'RFC' : RandomForestClassifier(n_estimators=200),
+               'GBC' : GradientBoostingClassifier(),
+               'HGBC' : HistGradientBoostingClassifier(),
+               'ADAC' : AdaBoostClassifier(),
+               'GNB' : GaussianNB(),
+               'KNN' : KNeighborsClassifier(),
+               'LR' : LogisticRegression(),
+               'RC' : RidgeClassifier()
+               }
+    ```
+    At the end of this phase we compared the performance of each model & we choose the 2 which were the best in terme of accuracy & precision since in this model we need to see the precision more than other thing.
+The 2 best models are : ETC & RFC
 ## Model Performance
-
+    
 # Productionisation
 
 To have more vision about this part visit this repository : https://github.com/zidelmal/gender-predictor-webapp/
